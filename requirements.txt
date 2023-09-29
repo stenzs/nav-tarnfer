@@ -1,0 +1,11 @@
+asyncpg==0.28.0
+GeoAlchemy2==0.14.1
+greenlet==2.0.2
+numpy==1.25.2
+packaging==23.1
+psycopg2-binary==2.9.7
+python-dotenv==1.0.0
+shapely==2.0.1
+SQLAlchemy==2.0.20
+SQLAlchemy-Utils==0.41.1
+typing_extensions==4.7.1

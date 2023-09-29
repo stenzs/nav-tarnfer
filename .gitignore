@@ -1,5 +1,4 @@
-.env
-data/
-downloads/
-venv/
-.idea/
+/data/
+/downloads/
+/.env
+
